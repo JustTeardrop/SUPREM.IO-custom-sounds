@@ -1,2 +1,2 @@
-# SUPREM.IO-custom-sounds
+# SUPREM.IO Custom Sounds
 Check out releases for the pack.
